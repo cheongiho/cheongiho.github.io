@@ -99,9 +99,9 @@
         const script = document.createElement('script');
         script.src = 'https://giscus.app/client.js';
         script.setAttribute('data-repo', 'cheongiho/cheongiho.github.io');
-        script.setAttribute('data-repo-id', ''); // GitHub에서 가져와야 함
-        script.setAttribute('data-category', 'Announcements');
-        script.setAttribute('data-category-id', ''); // GitHub에서 가져와야 함
+        script.setAttribute('data-repo-id', 'R_kgDOQegKhQ');
+        script.setAttribute('data-category', 'General');
+        script.setAttribute('data-category-id', 'DIC_kwDOQegKhc4CzJCF');
         script.setAttribute('data-mapping', 'pathname');
         script.setAttribute('data-strict', '0');
         script.setAttribute('data-reactions-enabled', '1');
