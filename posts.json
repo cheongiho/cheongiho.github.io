@@ -8,11 +8,27 @@
     "file": "example.md"
   },
   {
+    "slug": "nextjs-15-new-features",
+    "title": "Next.js 15의 새로운 기능과 주요 업데이트",
+    "date": "2025-11-28",
+    "tags": [],
+    "excerpt": "Next.js 15가 2024년 10월에 정식 릴리스되었으며, React 19 완전 지원, 안정적인 서버 액션, 더 빠른 빌드, 개선된 SEO 도구 등 강력한 기능들을 제공합니다. 이 게시글에서는 Next.js 15의 주요 기능과 업데이트를 살펴봅니다.",
+    "file": "nextjs-15-new-features.md"
+  },
+  {
     "slug": "performance-optimization-techniques",
     "title": "웹 성능 최적화 기법",
     "date": "2025-11-28",
     "tags": [],
     "excerpt": "웹 애플리케이션의 성능을 향상시키는 것은 사용자 경험과 비즈니스 성과에 직접적인 영향을 미칩니다. 이 게시글에서는 2024년 최신 웹 성능 최적화 기법들을 소개합니다.",
     "file": "performance-optimization-techniques.md"
+  },
+  {
+    "slug": "typescript-5-7-new-features",
+    "title": "TypeScript 5.7의 새로운 기능과 주요 업데이트",
+    "date": "2025-11-28",
+    "tags": [],
+    "excerpt": "TypeScript 5.7이 2024년 11월에 정식 릴리스되었으며, ECMAScript 2024 지원, 개선된 에러 리포팅, 향상된 타입 안전성 등 많은 개선사항을 제공합니다. 이 게시글에서는 TypeScript 5.7의 주요 기능과 업데이트를 살펴봅니다.",
+    "file": "typescript-5-7-new-features.md"
   }
 ]
